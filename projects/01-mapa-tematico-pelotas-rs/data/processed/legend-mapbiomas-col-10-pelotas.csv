@@ -1,0 +1,16 @@
+value,label,hex
+3,Formação Florestal,#1f8d49
+9,Silvicultura,#7a5900
+11,Campo Alagado e Área Pantanosa,#519799
+12,Formação Campestre,#d6bc74
+21,Mosaico de Usos,#ffefc3
+23,Praia, Duna e Areal,#ffa07a
+24,Área Urbanizada,#d4271e
+25,Outras Áreas não Vegetadas,#db4d4f
+31,Aquicultura,#091077
+33,Rio, Lago e Oceano,#2532e4
+39,Soja,#f5b3c8
+40,Arroz,#c71585
+41,Outras Lavouras Temporárias,#f54ca9
+49,Restinga Arbórea,#02d659
+50,Restinga Herbácea,#ad5100
