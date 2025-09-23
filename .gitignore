@@ -4,3 +4,4 @@ __pycache__/
 *.zip
 *.tif
 !projects/*/data/processed/*.tif
+projects/02-buffer-populacao-lages-sc/data/raw/*
